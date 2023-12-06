@@ -1,0 +1,17 @@
+{
+    "name": "Blog o pomidorach",
+    "short_name": "tomatoApp",
+    "theme_color": "#ff2008",
+    "background_color": "#ff2008",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/git-gdynia/",
+    "icons": [
+        {
+            "src": "./icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+  }
